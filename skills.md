@@ -1,119 +1,62 @@
-# Expeditionary Learning Workshop Model: Skills and Planning Framework
+# Skills: EL Education Workshop Model
 
-This framework provides a comprehensive guide to backwards planning, curriculum integration, and student-centered lesson execution. It details how teachers structure long-term learning expeditions and deliver daily instruction through a flexible workshop structure.
+This file outlines the foundational skills, teacher practices, and student behaviors required to execute both Workshop 1.0 (Teacher-Led Modeling) and Workshop 2.0 (Student Grappling) within the EL Education framework.
 
-## Part 1: The Learning Expedition Planning Process
+## Core Instructional Competencies
 
-A learning expedition requires careful backwards design to connect academic standards with meaningful real-world experiences. Teachers follow a deliberate multi-step sequence to build a coherent roadmap for student learning.
+Teachers must master several primary skills to run an effective EL workshop:
 
-### Step-by-Step Backwards Planning
-1. **Identify Local Connections:** Teachers review unpacked content standards and identify compelling local assets, issues, or history that bring the material to life.
-2. **Develop Draft Guiding Questions:** Teachers write initial open-ended questions that provoke curiosity and have multiple correct answers.
-3. **Unpack and Bundle Literacy Standards:** Faculty analyze and group target literacy standards to ensure reading and writing support the core content.
-4. **Draft the 4 Ts:** Educators define the core Topic, select rich Anchor Texts, establish mastery Targets, and design a meaningful final performance Task.
-5. **Complete a Product Plan and Test Drive:** Teachers outline the exact steps of the final product and personally complete the assignment to anticipate student needs.
-6. **Refine Case Studies:** Planning teams adjust the guiding questions and standard bundles for each specific sub-topic or case study.
-7. **Design Assessments and Scaffolds:** Instructors create assessments and backwards plan individual lessons that build skills sequentially.
+*   **Learning Target Clarity:** The ability to unpack standards into student-friendly language and share or co-construct them at the strategic moment in the lesson.
+*   **Gradual Release of Responsibility:** Skilled execution of shifting the cognitive heavy lifting from the teacher to the students.
+*   **Protocol Facilitation:** Using structured discussion and movement protocols to ensure equity of voice and active engagement.
+*   **Formative Assessment Tracking:** Using note-catchers, running records, and observational tracking to adjust instruction in real time.
 
 ---
 
-## Part 2: The Core Components of an Expedition
+## Workshop 1.0 Skills (Direct Modeling Focus)
 
-Every learning expedition contains fundamental elements that establish its narrative, purpose, character-building goals, and academic focus.
+Workshop 1.0 relies on the teacher explicitly demonstrating a skill or concept before students practice it independently. This structure is best for teaching discrete writing skills, physical tools, or complex new protocols.
 
-### Expedition Identity and Foundation
-*   **Expedition Summary:** This narrative describes the overall journey of the expedition. It weaves together the content, community connections, and student tasks into a cohesive story.
-*   **Big Ideas:** These are the core conceptual understandings derived directly from state science standards, state social studies standards, the Next Generation Science Standards, or the 3Cs Social Studies Framework.
-*   **Guiding Questions:** Synthesized from the big ideas and priority literacy standards, these questions are open-ended. They challenge students to explore deep topics with no single right answer.
-*   **Habit of Character Focus:** This component defines the specific character traits, mindsets, or scholarly habits that students will practice and develop throughout the unit.
+### 1. Introduction & Mini-Lesson
+*   **Teacher Skills:** Tapping into student curiosity, setting a positive tone, and providing explicit modeling of proficiency through "think-alouds."
+*   **Student Behaviors:** Demonstrating active listening, analyzing the model, and identifying the criteria for high-quality work.
 
-### The 4 Ts Framework
-The 4 Ts form the structural core of the expedition and must be planned iteratively rather than linearly:
-*   **Topic:** The central theme or subject matter based heavily on science and social studies content standards.
-*   **Targets / Standards:** The specific literacy and content standards that anchor the expedition and will be assessed for student mastery. Authentic math standards are included here if they naturally align.
-*   **Texts:** The selected anchor texts that students will analyze in depth to support their content knowledge, reading comprehension, and writing development.
-*   **Task:** The final performance task and product description. This includes all writing components and physical or digital products that students create.
+### 2. Guided & Independent Practice
+*   **Teacher Skills:** Gradually releasing responsibility, renaming steps to fix misconceptions, and asking probing questions rather than giving answers.
+*   **Student Behaviors:** Trying the task with peer support in a safe environment, then transitioning to solo application to demonstrate perseverance.
 
----
-
-## Part 3: Case Study Architecture
-
-Expeditions are broken down into individual case studies that scaffold learning. This sub-structure allows students to dive deeper into specific topics while building independence.
-
-### Case Study Design Components
-*   **Content and ELA Standards Bundles:** Each case study isolates specific standards from the larger expedition bundle to focus daily instruction.
-*   **Case Study Guiding Questions:** Targeted questions that drive students toward the overarching expedition questions while focusing on the specific case study topic.
-*   **Projects and Scaffolds:** Explicit tasks that build student capacity, complexity, and independence for the next phase of learning.
-*   **Text Selection:** A combination of deep anchor texts and auxiliary additional texts to expand student reading volume.
-*   **Assessment Strategy:** Clear content assessments and literacy assessments. Teachers explicitly separate or track what a given assessment measures when a single task covers both domains.
-*   **Expedition / Case Study Kick-off:** An engaging introductory event to build background knowledge. Examples include fieldwork, expert visits, community presentations, or mystery problems to solve.
-*   **Community and Real-World Connections:** Integrated elements that anchor the learning in the broader world:
-    *   *Fieldwork:* Out-of-school research experiences where students gather primary data.
-    *   *Experts:* Professional guests who share specialized knowledge with students.
-    *   *Service Learning:* Authentic community service projects that tie directly to the case study content.
+### 3. Share & Debrief
+*   **Teacher Skills:** Crafting synthesis questions that prompt students to reflect on the learning process, evaluate their own progress, and set future goals.
+*   **Student Behaviors:** Celebrating successes, assessing their own proficiency against the learning target, and articulating how the lesson connects to the broader topic.
 
 ---
 
-## Part 4: Ongoing Skills Work Framework
+## Workshop 2.0 Skills (Student Grappling Focus)
 
-Ongoing skills work happens continuously across kindergarten through twelfth grade. If these domains do not fit naturally inside the expedition, teachers address them in separate, dedicated planning documents.
+Workshop 2.0 flips the traditional model. Students start by grappling with a complex problem or text individually before receiving direct instruction. This approach builds deep conceptual understanding and self-reliance.
 
-### Domain Integration and Routines
-*   **Independent Reading:** Students read complex and independent-level texts related to the expedition topic. This practice builds the reading volume necessary to cultivate proficient readers.
-*   **Vocabulary Instruction:** Teachers explicitly teach key domain-specific content vocabulary alongside general academic vocabulary. Students practice using these words across all anchor texts and tasks.
-*   **Fluency Practice:** Students practice reading aloud to build expression, accuracy, and pacing. This skill is critical for expeditions that require spoken performances or audio recordings.
-*   **Writing Development:** Instructors integrate writing tasks that support regular learning, drawing from standards W.4 through W.10. Routine writing includes regular journals, entrance or exit tickets, and grammar exercises.
-*   **Oral Language:** Continuous instruction and practice tied directly to speaking and listening standards.
-*   **Math Integration:** Teachers identify and build authentic opportunities to teach math standards through the expedition topic whenever a natural connection exists.
+### 1. Engage & Grapple
+*   **Teacher Skills:** Choosing a high-interest, complex problem linked to real-world context, and circulating to offer only minimal support to ensure access.
+*   **Student Behaviors:** Working independently, leaning into uncertainty, and showing stamina when facing a challenging task.
+
+### 2. Discuss
+*   **Teacher Skills:** Grouping students flexibly, enforcing accountable talk guidelines, and observing patterns of thinking without interjecting.
+*   **Student Behaviors:** Following structured sharing protocols, presenting arguments, and constructively critiquing the reasoning of peers.
+
+### 3. Focus
+*   **Teacher Skills:** Delivering a targeted mini-lesson that directly addresses the specific gaps, misconceptions, or bright ideas observed during the grapple phase.
+*   **Student Behaviors:** Connecting their personal attempts to the formal strategy or model presented by the teacher.
+
+### 4. Apply & Debrief
+*   **Teacher Skills:** Providing differentiated extension tasks and facilitating a final reflection using the "What, So What, Now What" framework.
+*   **Student Behaviors:** Applying the refined skill to a new problem, synthesizing core takeaways, and identifying the next steps in their learning journey.
 
 ---
 
-## Part 5: Workshop 2.0 Lesson Structure
+## Character & Culture Skills
 
-The Workshop 2.0 model provides a highly flexible, non-linear framework for daily lessons. The primary objective is to help students achieve deep understanding of learning targets rather than forcing a strict step-by-step sequence. Teachers frequently cycle through focus and application phases within a single 50-to-60 minute lesson.
+An EL workshop cannot function without a strong classroom culture. Both teachers and students must practice specific relational skills:
 
-### Lesson Components and Time Allocations
-
-```
-+-----------------------------------------------------------------------+
-|  ENGAGE (5 Minutes or Less)                                           |
-|  Hook students, activate background knowledge, and share targets.    |
-+-----------------------------------------------------------------------+
-                                   |
-                                   v
-+-----------------------------------------------------------------------+
-|  GRAPPLE (5 - 10 Minutes)                                             |
-|  Students tackle a complex text, problem, or task independently or    |
-|  in small groups before receiving explicit instruction.               |
-+-----------------------------------------------------------------------+
-                                   |
-                                   v
-+-----------------------------------------------------------------------+
-|  DISCUSS (5 - 10 Minutes)                                             |
-|  Students share thinking, strategies, and initial findings from the   |
-|  grapple text or task to build collaborative meaning.                  |
-+-----------------------------------------------------------------------+
-                                   |
-                                   v
-+-----------------------------------------------------------------------+
-|  FOCUS (10 Minutes) *Iterative Cycle*                                 |
-|  Teachers provide direct instruction, model strategies, anchor concepts, |
-|  or clear up misconceptions revealed during discussion.               |
-+-----------------------------------------------------------------------+
-                                   |
-                                   v
-+-----------------------------------------------------------------------+
-|  APPLY (15 - 25 Minutes) *Iterative Cycle*                            |
-|  Students practice the target skill or apply new content knowledge    |
-|  through independent or collaborative work.                            |
-+-----------------------------------------------------------------------+
-                                   |
-                                   v
-+-----------------------------------------------------------------------+
-|  SYNTHESIZE (5 - 10 Minutes)                                          |
-|  Students reflect on their progress, self-assess against the learning |
-|  target, and consolidate their new understanding.                     |
-+-----------------------------------------------------------------------+
-```
-
-*Note: The Focus and Apply components frequently repeat in multiple mini-cycles during a single instructional period depending on student needs.*
+*   **Accountable Talk:** Students use evidence to back up claims and build on each other's ideas respectfully.
+*   **Critique and Revision:** Giving and receiving kind, specific, and helpful feedback on work products.
+*   **Growth Mindset:** Treating initial failures or confusion as a necessary and productive part of the learning process.
