@@ -1,45 +1,41 @@
 # Expeditionary Learning (EL) Education Skill Architecture
 
-This repository contains the formalized skill definitions and structural blueprints for the **Expeditionary Learning Workshop Model and Expedition Planner**. It acts as a semantic engine and behavioral prompt layer that allows Large Language Models (LLMs) to ingest, understand, and generate highly aligned curriculum assets based on official EL Education design parameters.
+# EL Education Workshop Model Skills Framework
 
-The primary skill rules are defined in `skills.md`, which maps out the backwards planning methodology, the 4 Ts framework, case study architecture, and the iterative Workshop 2.0 daily lesson structure.
-
----
-
-## Skill Capabilities & Core Mechanics
-
-When an AI model initializes with `skills.md` embedded into its system context, it gains specialized competencies across two operational layers:
-
-### 1. Macro-Level: Long-Term Expedition Design
-The model utilizes structural frameworks from EL Education Learning Expedition Planner to assist educators with high-level curriculum mapping:
-* **The 4 Ts Alignment Matrix:** Iteratively structures the core
-* **Topic** (science/social studies content standards),
-* **Targets** (assessable ELA/literacy and math standards),
-* **Texts** (deep anchor text selection),
-* and **Tasks** (performance products).
-* **Case Study Scaffolding:** Breaks down comprehensive semester-long expeditions into targeted sub-units, explicitly generating unique case study guiding questions, fieldwork/expert integration logs, and separate diagnostic metrics for literacy and content targets.
-* **Ongoing Skills Mapping:** Constructs continuous routines for independent reading volume, explicit academic/domain vocabulary building, reading fluency, and writing development (Standards W.4–W.10).
-
-### 2. Micro-Level: Workshop 2.0 Instructional Execution
-The model utilizes structural frameworks from Workshop 2.0 Lesson Template to build precise daily lesson blueprints. It rejects rigid linear delivery in favor of a flexible, responsive instructional flow:
-* **Grapple & Discuss Architecture:** Generates text-dependent or problem-based prompts that force students to independently struggle with complex material *before* explicit teacher instruction.
-* **Focus & Apply Iteration Cycles:** Generates modular lesson sections where the AI can split a standard period into multiple brief mini-lessons immediately followed by student application, directly adapting to the cognitive load of the targets.
+This repository provides a comprehensive breakdown of the foundational skills, teaching methodologies, and student behaviors that drive an effective **Expeditionary Learning (EL) Workshop Model**. It highlights the critical mechanics of both **Workshop 1.0 (Teacher-Led Modeling)** and **Workshop 2.0 (Student Grappling)**. This clear structure helps users build student independence, enhance critical thinking, and support continuous growth.
 
 ---
 
-## Target Use Cases
+## Core Purpose
 
-### Use Case 1: Automated Curriculum Generation
-* **Context:** A school district adoption requires translating state science or social studies standards into authentic learning expeditions.
-* **Execution:** Input your target state standards and available local resources. The AI model applies the backwards planning sequence to deliver a complete Expedition Plan, generating compelling guiding questions, anchoring text recommendations, and a scaffolded performance task sequence.
+The documentation in `skills.md` serves as a practical blueprint for shifting cognitive ownership from the instructor to the learner. By establishing clear competencies for both teachers and students, this framework transforms classrooms into collaborative, high-performance environments built on clear communication, critical analysis, and regular reflection.
 
-### Use Case 2: High-Alignment Lesson Scripting (Workshop 2.0)
-* **Context:** An instructional coach or classroom teacher needs a detailed lesson plan for a highly technical anchor text.
-* **Execution:** Provide the text selection and target standard. The AI outputs a complete 50-to-60 minute Workshop 2.0 plan, complete with precise timing windows, explicit teacher monitoring strategies for the **Grapple** phase, text-dependent discussion questions, and an independent **Apply** task.
+---
 
-### Use Case 3: Curriculum Auditing & Alignment Checks
-* **Context:** An administrator wants to verify if existing school curriculum units match the rigor and non-linear flexibility of the EL model.
-* **Execution:** Paste an existing unit or weekly lesson plan into the AI system. The skill parses the material against the criteria in `skills.md`, auditing the text complexity, checking if content and literacy assessments are cleanly separated, and identifying if the daily layout incorrectly uses static lecture structures instead of iterative focus/apply loops.
+## Targeted Use Cases
+
+This framework offers distinct, practical utility across different learning and development contexts:
+
+### 1. For Educators & Instructional Coaches
+*   **Curriculum Planning:** Use the explicit breakdowns of Workshop 1.0 and 2.0 to structure daily lesson plans, choosing the right model based on whether a task requires direct modeling or productive student grappling.
+*   **Professional Development & Mentorship:** Instructional coaches can use the lists of competencies to run targeted observations, provide specific feedback, and guide new teachers through the gradual release of responsibility.
+*   **Formative Assessment Mapping:** Teachers can align their lesson tracking systems, note-catchers, and running records directly with the specified student behaviors to check for understanding in real time.
+
+### 2. For Students & Student-Teachers
+*   **Metacognitive Development:** Students can use the explicit student behaviors to track their own learning process, helping them self-assess their progress against daily learning targets.
+*   **Collaborative Skill Building:** The framework outlines expectations for accountable talk and peer critique, providing students with clear guidelines on how to discuss arguments and deliver helpful feedback.
+*   **Practicum Preparation:** Student-teachers can study the clear transitions between the teacher-led "Focus" phases and student-led "Grapple" phases to build confidence in managing classroom culture.
+
+### 3. For Working Professionals & Corporate Trainers
+*   **Adult Learning Design (Andragogy):** Corporate trainers can apply the Workshop 2.0 "Grapple-Discuss-Focus-Apply" methodology to adult learning, letting professionals tackle real-world problems before delivering formal instruction.
+*   **Skill-Based Workforce Training:** Technical trainers can use the Workshop 1.0 model to introduce complex software platforms, physical tools, or strict operational compliance protocols through structured "think-alouds."
+*   **Culture of Continuous Feedback:** Teams can adapt the character and culture skills, such as peer critique and growth mindset, to run highly effective post-project retrospectives and build psychologically safe workplaces.
+
+---
+
+## Associated Files
+
+*   **`skills.md`**: Contains the core instructional competencies, step-by-step teacher skills, and corresponding student behaviors for both workshop structures.
 
 ---
 
