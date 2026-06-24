@@ -44,3 +44,10 @@ The model utilizes structural frameworks from Workshop 2.0 Lesson Template to bu
 This skill specification is optimized for automated parsing and LLM system prompt injection:
 * **Linter Validation:** Clean markdown separation ensures complete compatibility with standard markdown markdown-lint rules (`npx @google/design.md lint DESIGN.md`).
 * **Format:** Plain language formatting ensures low-token overhead and high conceptual density when parsed as a system tool file or vector embedding asset.
+
+---
+## Acknowledgments & Attributions
+This AI skill architecture is an original, transformative implementation derived from public pedagogical frameworks developed by EL Education Inc.. It references and cites structural definitions from:
+EL Education Learning Expedition Planner 
+Workshop 2.0 Lesson Template
+
