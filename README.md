@@ -12,7 +12,11 @@ When an AI model initializes with `skills.md` embedded into its system context, 
 
 ### 1. Macro-Level: Long-Term Expedition Design
 The model utilizes structural frameworks from EL Education Learning Expedition Planner to assist educators with high-level curriculum mapping:
-* **The 4 Ts Alignment Matrix:** Iteratively structures the core **Topic** (science/social studies content standards), **Targets** (assessable ELA/literacy and math standards), **Texts** (deep anchor text selection), and **Tasks** (performance products).
+* **The 4 Ts Alignment Matrix:** Iteratively structures the core
+* **Topic** (science/social studies content standards),
+* **Targets** (assessable ELA/literacy and math standards),
+* **Texts** (deep anchor text selection),
+* and **Tasks** (performance products).
 * **Case Study Scaffolding:** Breaks down comprehensive semester-long expeditions into targeted sub-units, explicitly generating unique case study guiding questions, fieldwork/expert integration logs, and separate diagnostic metrics for literacy and content targets.
 * **Ongoing Skills Mapping:** Constructs continuous routines for independent reading volume, explicit academic/domain vocabulary building, reading fluency, and writing development (Standards W.4–W.10).
 
