@@ -53,5 +53,5 @@ This skill specification is optimized for automated parsing and LLM system promp
 ## Acknowledgments & Attributions
 This AI skill architecture is an original, transformative implementation derived from public pedagogical frameworks developed by EL Education Inc.. It references and cites structural definitions from:
 EL Education Learning Expedition Planner 
-Workshop 2.0 Lesson Template
+and the Workshop 2.0 Lesson Template
 
