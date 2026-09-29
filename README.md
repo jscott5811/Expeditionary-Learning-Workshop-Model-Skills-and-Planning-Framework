@@ -1,5 +1,3 @@
-# Expeditionary Learning (EL) Education Skill Architecture
-
 # EL Education Workshop Model Skills Framework
 
 This repository provides a comprehensive breakdown of the foundational skills, teaching methodologies, and student behaviors that drive an effective **Expeditionary Learning (EL) Workshop Model**. It highlights the critical mechanics of both **Workshop 1.0 (Teacher-Led Modeling)** and **Workshop 2.0 (Student Grappling)**. This clear structure helps users build student independence, enhance critical thinking, and support continuous growth.
